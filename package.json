@@ -7,8 +7,16 @@
   },
   "author": "",
   "license": "ISC",
-  "description": "",
+  "description": "hello world",
   "dependencies": {
     "@linclark/pkg": "^1.0.2"
-  }
+  },
+  "repository": {
+    "url": "git+https://github.com/sofianguy/how-to-npm-workshopper.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sofianguy/how-to-npm-workshopper/issues"
+  },
+  "homepage": "https://github.com/sofianguy/how-to-npm-workshopper#readme",
+  "devDependencies": {}
 }
